@@ -4,3 +4,6 @@ sqlalchemy==2.0.31
 matplotlib
 seaborn
 streamlit_shadcn_ui
+pandas
+toml
+python3.11
