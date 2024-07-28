@@ -6,4 +6,3 @@ seaborn
 streamlit_shadcn_ui
 pandas
 toml
-python3.11
