@@ -6,3 +6,4 @@ seaborn
 streamlit_shadcn_ui
 pandas
 toml
+opencv-python
